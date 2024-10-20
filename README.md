@@ -1,6 +1,6 @@
 # user-api
 
-Este projeto é uma API desenvolvida em Java com Spring Boot, destinada à gestão de usuários. O objetivo é facilitar a criação, leitura, atualização e exclusão (CRUD) de usuários.
+Este projeto é uma API desenvolvida em Java com Spring Boot
 
 ## Tecnologias Utilizadas
 
